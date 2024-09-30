@@ -39,10 +39,10 @@ Also conduct test by Kotest.
 
 ## TODO
 
-- [ ] Create Entities
-  - [ ] Book
-  - [ ] User
-  - [ ] BookCategory
+- [x] Create Entities
+  - [x] Book
+  - [x] User
+  - [x] BookCategory
 - [x] DB Setting
 ---
 started at: 2024-09-28
