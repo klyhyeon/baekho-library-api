@@ -8,10 +8,10 @@ Also conduct test by Kotest.
 ## 1st Features
 
 ### Search Books
+- User can search books by title, author, category and publisher
 
-
-### Borrow Books
-
+### Checkout Books
+- User can check out books within checkout policies(max checkout count and days)
 
 ### Reserve Books
 
@@ -43,6 +43,10 @@ Also conduct test by Kotest.
   - [x] Book
   - [x] User
   - [x] BookCategory
+  - [ ] Checkout
+  - [ ] CheckoutHistory
+  - [ ] Reservation
+  - [ ] CheckoutPolicy
 - [x] DB Setting
 ---
 started at: 2024-09-28
