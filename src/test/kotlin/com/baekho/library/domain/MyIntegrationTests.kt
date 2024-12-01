@@ -7,6 +7,7 @@ import org.testcontainers.containers.MySQLContainer
 import org.testcontainers.junit.jupiter.Container
 import org.testcontainers.junit.jupiter.Testcontainers
 
+// document: https://java.testcontainers.org/features/image_name_substitution/
 @Testcontainers
 @SpringBootTest
 class MyIntegrationTests {
