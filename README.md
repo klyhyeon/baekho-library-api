@@ -48,5 +48,6 @@ Also conduct test by Kotest.
   - [ ] Reservation
   - [ ] CheckoutPolicy
 - [x] DB Setting
+- [ ] Make test container for integration test
 ---
 started at: 2024-09-28
